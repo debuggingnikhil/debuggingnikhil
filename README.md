@@ -14,9 +14,11 @@ I'm a **Full-Stack Web Developer** passionate about creating interactive, access
 
 ### 👨‍💻 My Projects
 
-**[Project Name 1]** *A brief description of what this does (e.g., A real-time chat app built with Socket.io).* 🔗 [Live Demo] | 💻 [Repo Link]
+**[Project Name 1]** [AI Resume Analyzer] A web application that analyzes resumes using AI and provides ATS score, keyword suggestions, and improvement tips.  
+🔗 [Live Demo] | 💻 [Repo Link]
 
-**[Project Name 2]** *Description (e.g., A headless CMS e-commerce store).* 🔗 [Live Demo] | 💻 [Repo Link]
+**[Project Name 2]** [Smart Expense Tracker] A full-stack web application to track expenses, visualize spending with charts, and generate monthly financial reports.  
+🔗 [Live Demo] |
 
 
 ---
