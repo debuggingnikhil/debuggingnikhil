@@ -1,4 +1,4 @@
-# Hi there, I'm Nikhil Numar! 👋
+# Hi there, I'm Nikhil kumar! 👋
 
 I'm a **Full-Stack Web Developer** passionate about creating interactive, accessible, and user-centric digital experiences. I love turning complex problems into elegant code.
 
